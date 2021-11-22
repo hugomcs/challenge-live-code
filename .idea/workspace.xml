@@ -30,7 +30,25 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.ListNodeTest">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.intelie.challenge" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FooBar">
+    <configuration name="FooBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.intelie.challenge.FooBar" />
+      <module name="challenge-live-code-hugo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.intelie.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListNodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="challenge-live-code-hugo" />
       <extension name="coverage">
@@ -63,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FooBar" />
         <item itemvalue="JUnit.ListNodeTest" />
         <item itemvalue="JUnit.Solution2Test" />
       </list>
